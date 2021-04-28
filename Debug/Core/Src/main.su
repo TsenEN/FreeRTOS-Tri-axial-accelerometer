@@ -1,0 +1,11 @@
+main.c:88:6:MEMS_Write	16	static
+main.c:94:6:MEMS_Read	16	static
+main.c:107:5:main	16	static
+main.c:186:6:SystemClock_Config	88	static
+main.c:226:13:MX_SPI1_Init	8	static
+main.c:264:13:MX_GPIO_Init	40	static
+main.c:306:6:Task1	8	static
+main.c:315:6:HandlerTask	16	static
+main.c:335:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:350:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:367:6:Error_Handler	4	static,ignoring_inline_asm
